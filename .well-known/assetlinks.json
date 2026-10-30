@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.changudel.family",
+      "sha256_cert_fingerprints": [
+        "64:CA:EB:BA:10:51:1E:EB:65:CA:A3:0D:DA:F7:5A:AF:E2:45:34:E0:FB:36:B9:56:2E:92:27:70:15:43:8B:1F"
+      ]
+    }
+  }
+]
